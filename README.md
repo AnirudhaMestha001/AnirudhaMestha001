@@ -34,8 +34,7 @@
 ## 🛠️ Languages and Tools
 <p align="left">
     <img src="https://skillicons.dev/icons?i=pycharm,vscode,git,github" alt="Development Tools"/>
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="48" height="48" alt="Azure"/>
-    <img src="https://skillicons.dev/icons?i=python,flask" alt="Programming"/>
+    <img src="https://skillicons.dev/icons?i=python,jupyter" alt="Programming"/>
     <img src="https://skillicons.dev/icons?i=html,css" alt="Web Technologies"/>
  
 </p>
