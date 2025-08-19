@@ -34,7 +34,7 @@
 ## 🛠️ Languages and Tools
 <p align="left">
     <img src="https://skillicons.dev/icons?i=pycharm,vscode,git,github" alt="Development Tools"/>
-    <img src="https://skillicons.dev/icons?i=python,jupyter" alt="Programming"/>
+    <img src="https://skillicons.dev/icons?i=python" alt="Programming"/>
     <img src="https://skillicons.dev/icons?i=html,css" alt="Web Technologies"/>
  
 </p>
